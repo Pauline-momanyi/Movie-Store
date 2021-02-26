@@ -1,0 +1,28 @@
+#myDiv{
+    background-color:rgb(224, 255, 255);
+    text-align: left;
+    margin-bottom: 10px;
+
+
+
+}
+.myButton{
+	color:blue;
+	text-align: left;
+
+}
+
+
+#submit1{
+	background-color: blue;
+	margin-top: 5px;
+	margin-left: 12px;
+	text-align: center;
+}
+#reset1{
+	background-color: red;
+	margin-top: 5px;
+	margin-left: 18px;
+	text-align: center;
+}
+
